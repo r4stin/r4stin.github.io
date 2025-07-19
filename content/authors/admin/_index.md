@@ -67,4 +67,4 @@ AI Researcher & Engineer with an M.Sc. in Computer Engineering from the Universi
 
 Proficient in Python, C++, PyTorch, TensorFlow, and OpenCV, I enjoy building robust AI systems that push the boundaries of efficiency and precision. My interests lie at the intersection of applied research and practical deployment of intelligent technologies.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+# {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
