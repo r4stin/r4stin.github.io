@@ -50,7 +50,7 @@ social:
     link: www.linkedin.com/in/moafi
 # Uncomment below for Github link
   - icon: github
-#    icon_pack: fab
+    icon_pack: fab
     link: https://github.com/r4stin
 
 # Link to a PDF of your resume/CV from the About widget.
