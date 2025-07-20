@@ -36,14 +36,10 @@ content:
 #    - name: NLP
 #      tag: NLP
 
-#design:
-#  columns: '1'
-#  view: masonry
-#  flip_alt_rows: true
-#  background: {}
-#  spacing: {padding: [0, 0, 0, 0]}
 design:
-  columns: '3'  # Or 2 if you prefer larger cards
-  view: grid    # ✅ Use 'grid' instead of 'masonry'
-  flip_alt_rows: false
+  columns: '1'
+  view: masonry
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
 ---
