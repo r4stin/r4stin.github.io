@@ -69,7 +69,7 @@ item:
     organization_url: https://www.deeplearning.ai
     date_start: '2025-03-01'
 #    description: Skills: Prompt Engineering, Transformers, GenAI, Python
-    certificate_url: ''
+    certificate_url: 'https://learn.deeplearning.ai/accomplishments/bf4ea686-bbbb-446b-ad86-8d793b07b4f6?usp=sharing'
     url: ''
 
   - title: Intro to Machine Learning
@@ -77,7 +77,7 @@ item:
     organization_url: https://www.kaggle.com
     date_start: '2024-09-01'
 #    description: Skills: pandas, Scikit-Learn, Machine Learning Algorithms, Python
-    certificate_url: ''
+    certificate_url: 'https://www.kaggle.com/learn/certification/rastin99/intro-to-machine-learning'
     url: ''
 
   - title: Introduction to Docker
@@ -86,7 +86,7 @@ item:
     date_start: '2024-09-01'
     date_end: ''
 #    description: Skills: Docker
-    certificate_url: ''
+    certificate_url: 'https://www.datacamp.com/completed/statement-of-accomplishment/course/128fa1ae18b9255f3cdaf900db1d65b8bf0d17b0'
     url: ''
 
   - title: Introduction to LLMs in Python
@@ -94,7 +94,7 @@ item:
     organization_url: https://www.datacamp.com
     date_start: '2024-09-01'
 #    description: Skills: NLP, PyTorch, Transformers, Python, RLHF, LLMs, SciPy
-    certificate_url: ''
+    certificate_url: 'https://www.datacamp.com/statement-of-accomplishment/course/a54aa6ff6368b30c28f087de3f6bc107040ee2c4?raw=1'
     url: ''
 
   - title: Introduction to Natural Language Processing in Python
@@ -102,22 +102,14 @@ item:
     organization_url: https://www.datacamp.com
     date_start: '2024-09-01'
 #    description: Skills: NLTK, NLP, Python
-    certificate_url: ''
-    url: ''
-
-  - title: Automating Real-World Tasks with Python
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    date_start: '2021-12-01'
-#    description: Skills: Problem Solving
-    certificate_url: ''
+    certificate_url: 'https://www.datacamp.com/statement-of-accomplishment/course/ea8a185c77ac7559eef25acf8654e679ca6a710d?raw=1'
     url: ''
 
   - title: Differential Equations for Engineers
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-12-01'
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/verify/5JCMYB3Z8R5V'
     url: ''
 
   - title: Google IT Automation with Python Professional Certificate
@@ -125,14 +117,14 @@ item:
     organization_url: https://www.coursera.org
     date_start: '2021-12-01'
 #    description: Skills: IT Automation, Python, Git, Problem Solving
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/verify/professional-cert/M4JMJB2GNFR7'
     url: ''
 
   - title: Algorithmic Toolbox
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-11-01'
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/verify/Z2BTQ6WMHSEC'
     url: ''
 
   - title: Azure Synapse SQL Pool - Implement Polybase
@@ -140,68 +132,43 @@ item:
     organization_url: https://www.coursera.org
     date_start: '2021-11-01'
 #    description: Skills: Azure ML, Azure Data Lake, Azure SQL
-    certificate_url: ''
-    url: ''
-
-  - title: Computer Architecture
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    date_start: '2021-11-01'
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/share/f1bfd4fb4340cee7553ad2a80c759768'
     url: ''
 
   - title: Data Structures
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-11-01'
-    certificate_url: ''
-    url: ''
-
-  - title: Troubleshooting and Debugging Techniques
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    date_start: '2021-11-01'
-    certificate_url: ''
-    url: ''
-
-  - title: Data Science Math Skills
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    date_start: '2021-10-01'
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/verify/GWYPAHBZUR9C'
     url: ''
 
   - title: Getting Started in Google Analytics
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-10-01'
-#    description: Skills: SEO, Google Analytics
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/share/15733adacdd39d693916e1b135a0ec08'
     url: ''
-
-  - title: Introduction to Git and GitHub
+    
+  - title: Getting Started with Azure DevOps Boards
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-10-01'
-#    description: Skills: Python, Git, Version Control
-    certificate_url: ''
+    certificate_url: 'https://coursera.org/share/342a82f0870d8c4b499ed1eb38dc8730'
+    url: ''
+    
+  - title: Machine Learning Pipelines with Azure ML Studio
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-10-01'
+    certificate_url: 'https://coursera.org/verify/N3M4Z6T4X47A'
     url: ''
 
   - title: AWS S3 Basics
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-08-01'
-#    description: Skills: AWS S3, S3 Encryption, S3 Versioning
     certificate_url: ''
-    url: ''
-
-  - title: Crash Course on Python
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    date_start: '2021-08-01'
-#    description: Skills: OOP, Python, Git
-    certificate_url: ''
-    url: ''
+    url: 'https://coursera.org/share/dd662409692286aa02fb8d6766a92139'
 
 design:
   columns: '1'
