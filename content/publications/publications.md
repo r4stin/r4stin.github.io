@@ -15,7 +15,7 @@ weight: 30
 title: Publications test
 
 content:
-  page_type: publication
+  page_type: pub
   filter_default: 0
   filter_button:
     - name: All
