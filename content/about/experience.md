@@ -46,9 +46,9 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Installed and Configured Server and Network
-        * Installed and Configured Routers and Switch
-        * Installed Operating System(Linux and Windows)
+        * Installed and configured servers, routers, switches, and operating systems (Linux & Windows).
+        * Supported setup and maintenance of security systems, including CCTV and burglar alarms.
+        * Assisted in troubleshooting and documenting network and system issues.
 design:
   columns: '1'
 ---
