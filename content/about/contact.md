@@ -17,13 +17,30 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
+#  form:
+#    provider: netlify
 #    formspree:
 #      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
+  form:
+    provider: netlify
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
+    fields:
+      - name: name
+        label: Name
+        type: text
+      - name: email
+        label: Email
+        type: email
+      - name: message
+        label: Message
+        type: textarea
+    button:
+      text: Send Message
+
 
 design:
   columns: '1'
