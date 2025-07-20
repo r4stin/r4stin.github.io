@@ -25,7 +25,7 @@ experience:
   - title: M.Sc. Computer Engineering (Specialization - AI and Robotics)
     company: University of Padova
     company_url: ''
-    company_logo: unipd
+#    company_logo: unipd
     location: Padova, Italy
     date_start: '2022-09-01'
     date_end: '2025-07-07'
@@ -35,7 +35,7 @@ experience:
   - title: B.Sc. Computer Engineering
     company: Azad University
     company_url: ''
-    company_logo: azad
+#    company_logo: azad
     location: Rasht, Iran
     date_start: '2017-09-01'
     date_end: '2021-07-31'

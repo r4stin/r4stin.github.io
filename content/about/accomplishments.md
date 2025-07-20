@@ -22,30 +22,169 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#item:
+#  - certificate_url: https://www.coursera.org
+#    date_end: ''
+#    date_start: '2021-01-25'
+#    description: ''
+#    organization: Coursera
+#    organization_url: https://www.coursera.org
+#    title: Neural Networks and Deep Learning
+#    url: ''
+#  - certificate_url: https://www.edx.org
+#    date_end: ''
+#    date_start: '2021-01-01'
+#    description: Formulated informed blockchain models, hypotheses, and use cases.
+#    organization: edX
+#    organization_url: https://www.edx.org
+#    title: Blockchain Fundamentals
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#  - certificate_url: https://www.datacamp.com
+#    date_end: '2020-12-21'
+#    date_start: '2020-07-01'
+#    description: ''
+#    organization: DataCamp
+#    organization_url: https://www.datacamp.com
+#    title: 'Object-Oriented Programming in R'
+#    url: ''
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - title: ChatGPT Prompt Engineering for Developers
+    organization: DeepLearning.AI
+    organization_url: https://www.deeplearning.ai
+    date_start: '2025-03-01'
+#    description: Skills: Prompt Engineering, Transformers, GenAI, Python
+    certificate_url: ''
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
+
+  - title: Intro to Machine Learning
+    organization: Kaggle
+    organization_url: https://www.kaggle.com
+    date_start: '2024-09-01'
+#    description: Skills: pandas, Scikit-Learn, Machine Learning Algorithms, Python
+    certificate_url: ''
+    url: ''
+
+  - title: Introduction to Docker
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2024-09-01'
+    date_end: ''
+#    description: Skills: Docker
+    certificate_url: ''
+    url: ''
+
+  - title: Introduction to LLMs in Python
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    date_start: '2024-09-01'
+#    description: Skills: NLP, PyTorch, Transformers, Python, RLHF, LLMs, SciPy
+    certificate_url: ''
+    url: ''
+
+  - title: Introduction to Natural Language Processing in Python
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    date_start: '2024-09-01'
+#    description: Skills: NLTK, NLP, Python
+    certificate_url: ''
+    url: ''
+
+  - title: Automating Real-World Tasks with Python
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-12-01'
+#    description: Skills: Problem Solving
+    certificate_url: ''
+    url: ''
+
+  - title: Differential Equations for Engineers
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-12-01'
+    certificate_url: ''
+    url: ''
+
+  - title: Google IT Automation with Python Professional Certificate
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-12-01'
+#    description: Skills: IT Automation, Python, Git, Problem Solving
+    certificate_url: ''
+    url: ''
+
+  - title: Algorithmic Toolbox
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-11-01'
+    certificate_url: ''
+    url: ''
+
+  - title: Azure Synapse SQL Pool - Implement Polybase
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-11-01'
+#    description: Skills: Azure ML, Azure Data Lake, Azure SQL
+    certificate_url: ''
+    url: ''
+
+  - title: Computer Architecture
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-11-01'
+    certificate_url: ''
+    url: ''
+
+  - title: Data Structures
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-11-01'
+    certificate_url: ''
+    url: ''
+
+  - title: Troubleshooting and Debugging Techniques
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-11-01'
+    certificate_url: ''
+    url: ''
+
+  - title: Data Science Math Skills
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-10-01'
+    certificate_url: ''
+    url: ''
+
+  - title: Getting Started in Google Analytics
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-10-01'
+#    description: Skills: SEO, Google Analytics
+    certificate_url: ''
+    url: ''
+
+  - title: Introduction to Git and GitHub
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-10-01'
+#    description: Skills: Python, Git, Version Control
+    certificate_url: ''
+    url: ''
+
+  - title: AWS S3 Basics
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-08-01'
+#    description: Skills: AWS S3, S3 Encryption, S3 Versioning
+    certificate_url: ''
+    url: ''
+
+  - title: Crash Course on Python
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    date_start: '2021-08-01'
+#    description: Skills: OOP, Python, Git
+    certificate_url: ''
     url: ''
 
 design:
