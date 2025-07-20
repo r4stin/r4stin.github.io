@@ -48,6 +48,22 @@ date_format: Jan 2006
 #    title: 'Object-Oriented Programming in R'
 #    url: ''
 item:
+  - title: "Multimodal RAG: Chat with Videos"
+    organization: DeepLearning.AI
+    organization_url: https://www.deeplearning.ai
+    date_start: '2025-04-01'
+#    description: Skills: Retrieval-Augmented Generation (RAG), Embeddings, Natural Language Processing (NLP), Vector Databases
+    certificate_url: 'https://learn.deeplearning.ai/accomplishments/0e4ad4b6-f867-49f9-920d-1210b9476ec4?usp=sharing'
+    url: ''
+
+  - title: Reinforcement Learning From Human Feedback
+    organization: DeepLearning.AI
+    organization_url: https://www.deeplearning.ai
+    date_start: '2025-04-01'
+#    description: Skills: Large Language Models (LLM), Reinforcement Learning from Human Feedback (RLHF), Python
+    certificate_url: 'https://learn.deeplearning.ai/accomplishments/5ee24a16-c206-4791-9c39-ffc25a32a7fc?usp=sharing'
+    url: ''
+
   - title: ChatGPT Prompt Engineering for Developers
     organization: DeepLearning.AI
     organization_url: https://www.deeplearning.ai
