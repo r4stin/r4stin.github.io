@@ -26,7 +26,7 @@ experience:
     company: Graz University of Technology
     company_url: ''
 #    company_logo: org-gc
-    location: California
+    location: Graz, Austria
     date_start: '2024-10-01'
     date_end: '2025-03-01'
     description: |2-
@@ -36,15 +36,19 @@ experience:
         * Refined ambiguous regions and boundries using zero-shot instance segmentation with the foundation model SAM, enabling label-agnostic fusion of semantic and instance outputs.
         * Achieved a 5.8% mIoU improvement over the best individual model while reducing annotation time to ∼ 3 seconds per image, significantly minimizing manual effort.
 
-#  - title: Professor of Semiconductor Physics
-#    company: University X
-#    company_url: ''
+  - title: Computer Engineering Intern
+    company: Shomal Electronics
+    company_url: ''
 #    company_logo: org-x
-#    location: California
-#    date_start: '2016-01-01'
-#    date_end: '2020-12-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: California
+    date_start: '2021-03-01'
+    date_end: '2021-07-31'
+    description: |2-
+        Responsibilities included:
+        
+        * Installed and Configured Server and Network
+        * Installed and Configured Routers and Switch
+        * Installed Operating System(Linux and Windows)
 design:
   columns: '1'
 ---
