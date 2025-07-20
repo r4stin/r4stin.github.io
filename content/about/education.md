@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-01'
     date_end: '2025-07-07'
     description: |2-
-        * "Thesis Title: Efficient Auto-Labeling for Enhanced Semantic Segmentation Annotation: An Ensemble-Based Framework with SAM Refinement"
+        * Thesis Title: Efficient Auto-Labeling for Enhanced Semantic Segmentation Annotation: An Ensemble-Based Framework with SAM Refinement
 
   - title: B.Sc. Computer Engineering
     company: Azad University
