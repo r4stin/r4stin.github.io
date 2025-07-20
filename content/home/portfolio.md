@@ -3,6 +3,7 @@
 # This section displays content from `content/project/`.
 # See https://docs.hugoblox.com/widget/portfolio/
 widget: portfolio
+date_format: Jan 2006
 
 # This file represents a page section.
 headless: true
@@ -14,8 +15,7 @@ title: ''
 subtitle: ''
 
 content:
-  date_format: Jan 2006
-
+  
   # Page type to display. E.g. project.
   page_type: project
 
