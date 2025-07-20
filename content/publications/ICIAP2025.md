@@ -9,7 +9,7 @@ tags: [Conference]
 categories: ["Conferences & Journals"]
 url_pdf: "/files/ICIAP2025_Segmentation.pdf"
 #url_code: "https://github.com/your-repo"
-url_bibtex: "ICIAP2025.bib"
+url_bibtex: "publications.bib"
 #url_dataset: "https://zenodo.org/record/xxxx"
 featured: true
 ---
