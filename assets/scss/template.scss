@@ -47,6 +47,10 @@ body {
   padding: 0;
 }
 
+.home-section.wg-publications {
+  padding: 0;
+}
+
 #profile .network-icon {
   margin-top: 0.5rem;
 }
@@ -107,11 +111,27 @@ ul.network-icon .big-icon {
   max-height: 200px;
 }
 
+// Prevent stretching on Publications page with narrow container
+.wg-publications .avatar {
+  width: auto;
+  height: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
+
 // Smaller Name and Role text on About page than in homepage `about.avatar` widget
 .wg-about .portrait-title h2 {
   font-size: 1rem;
 }
 
+// Smaller Name and Role text on Publications page than in homepage `about.avatar` widget
+.wg-publications .portrait-title h2 {
+  font-size: 1rem;
+}
+
 .wg-about .portrait-title h3 {
+  font-size: 0.8rem;
+}
+.wg-publications .portrait-title h3 {
   font-size: 0.8rem;
 }
