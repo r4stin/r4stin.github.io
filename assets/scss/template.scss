@@ -23,20 +23,10 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
-//// more rounded cards and larger gap between cards
-//.card-simple {
-//  margin-top: 1.8rem;
-//  border-radius: 15px;
-//}
+// more rounded cards and larger gap between cards
 .card-simple {
-  height: 300px; /* or any fixed height you like */
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.card-simple .card-body {
-  overflow: hidden;
+  margin-top: 1.8rem;
+  border-radius: 15px;
 }
 
 .dark .card-simple {
