@@ -10,12 +10,24 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 30
 
 title: Publications test
 
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://docs.hugoblox.com/get-started/#introduce-yourself
-author: admin
+content:
+  page_type: publication
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: "*"
+    - name: Conferences & Journals
+      tag: Conference
+    - name: Challenges
+      tag: Challenge
+    - name: Theses
+      tag: Thesis
+
+design:
+  view: masonry
+  columns: "2"
 ---
