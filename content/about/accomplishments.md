@@ -167,8 +167,8 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     date_start: '2021-08-01'
-    certificate_url: ''
-    url: 'https://coursera.org/share/dd662409692286aa02fb8d6766a92139'
+    certificate_url: 'https://coursera.org/share/dd662409692286aa02fb8d6766a92139'
+    url: ''
 
 design:
   columns: '1'

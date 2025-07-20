@@ -40,7 +40,7 @@ experience:
     company: Shomal Electronics
     company_url: ''
 #    company_logo: org-x
-    location: California
+    location: Rasht, Iran
     date_start: '2021-03-01'
     date_end: '2021-07-31'
     description: |2-
