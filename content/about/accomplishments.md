@@ -48,6 +48,13 @@ date_format: Jan 2006
 #    title: 'Object-Oriented Programming in R'
 #    url: ''
 item:
+  - title: "Fundamentals of Deep Learning"
+    organization: NVIDIA
+    organization_url: https://www.nvidia.com
+    date_start: '2025-09-01'
+    certificate_url: 'https://learn.nvidia.com/certificates?id=mIZKoH0zQKuDMfaRUOPKkQ'
+    url: ''
+
   - title: "Multimodal RAG: Chat with Videos"
     organization: DeepLearning.AI
     organization_url: https://www.deeplearning.ai
