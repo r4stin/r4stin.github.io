@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: AI Engineer
+    company: Freelance
+    company_url: ''
+#    company_logo: org-gc
+    location: Padova, Italy
+    date_start: '2025-5-01'
+    date_end: 'Present'
+    description: |2-
+        Responsibilities include:
+        
+        * Developing and deploying ML, computer vision, and agentic LLM systems for real-world applications
+        * Experimenting with deep learning and multimodal architectures to improve model performance and reliability 
+        * Building end-to-end AI and agent pipelines, from data preprocessing to evaluation, orchestration, and deployment• Developing and deploying ML, computer vision, and agentic LLM systems for real-world applications • Experimenting with deep learning and multimodal architectures to improve model performance and reliability • Building end-to-end AI and agent pipelines, from data preprocessing to evaluation, orchestration, and deployment
+
   - title: Researcher
     company: Graz University of Technology
     company_url: ''
