@@ -27,8 +27,8 @@ experience:
     company_url: ''
 #    company_logo: org-gc
     location: Padova, Italy
-    date_start: '2025-5-01'
-    date_end: 
+    date_start: '2025-05-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
