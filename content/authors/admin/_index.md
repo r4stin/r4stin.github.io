@@ -66,8 +66,8 @@ social:
 #email: ""
 ---
 
-AI Researcher & Engineer with an M.Sc. in Computer Engineering from the University of Padova, specializing in machine learning and deep learning across diverse domains. My experience spans computer vision, recommendation systems, and real-time AI applications, with growing expertise in large language models (LLMs), multimodal and graph-based learning.
+AI Researcher & Engineer with an M.Sc. in Computer Engineering from the University of Padova, specializing in machine learning and deep learning across diverse domains. My experience spans computer vision, recommendation systems, real-time AI applications, and emerging agentic systems, with growing expertise in large language models (LLMs), multimodal and graph-based learning.
 
-Proficient in Python, C++, PyTorch, TensorFlow, and OpenCV, I combine strong software engineering practices, including DevOps/MLOps and scalable system design, with a passion for building robust AI systems that push the boundaries of efficiency and precision. My interests lie at the intersection of applied research and practical deployment of intelligent technologies.
+Proficient in Python, C++, PyTorch, TensorFlow, and OpenCV, I combine strong software engineering practices — including DevOps/MLOps and scalable system design — with a passion for building robust AI systems that push the boundaries of efficiency and precision. My interests lie at the intersection of applied research and practical deployment of intelligent, agent-driven technologies.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
