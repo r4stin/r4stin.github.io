@@ -29,11 +29,11 @@ content:
   filter_button:
 #    - name: All
 #      tag: '*'
-    - name: Machine Learning & Multimodal AI
+    - name: Machine Learning & Multimodal
       tag: ML
-    - name: Computer Vision & 3D Vision
+    - name: Computer Vision & 3D AI
       tag: CV
-    - name: LLM Systems, Agents & AI Tooling
+    - name: LLM Systems, Agents
       tag: LLM
 
 design:
