@@ -7,4 +7,8 @@ view: citation
 # Redirect the old plural URL to this section.
 aliases:
   - /publications/
+
+# Hide the page share buttons on all publication pages.
+cascade:
+  share: false
 ---
