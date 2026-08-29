@@ -27,8 +27,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-#    - name: All
-#      tag: '*'
+    - name: All
+      tag: '*'
     - name: Machine Learning & Multimodal
       tag: ML
     - name: Computer Vision & 3D AI
