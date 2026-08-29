@@ -103,6 +103,14 @@ ul.network-icon .big-icon {
   max-height: 225px;
 }
 
+// Match the wrapper to the 225px avatar above (theme default assumes 150px),
+// so the photo doesn't overflow onto the name and the status emoji badge
+// anchors to the avatar's edge.
+.avatar-wrapper {
+  width: 225px;
+  height: 225px;
+}
+
 // Prevent stretching on About page with narrow container
 .wg-about .avatar {
   width: auto;
