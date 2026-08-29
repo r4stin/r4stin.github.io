@@ -11,6 +11,6 @@ main:
     url: about/
     weight: 20
   - name: Publications
-    url: /publications/
+    url: /publication/
     weight: 30
 

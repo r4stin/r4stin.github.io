@@ -12,8 +12,8 @@ title: Publications
 subtitle: ''
 
 content:
-  # Page type to display. Matches the `content/publications/` folder.
-  page_type: publications
+  # Page type to display. Matches the `content/publication/` folder.
+  page_type: publication
 
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
