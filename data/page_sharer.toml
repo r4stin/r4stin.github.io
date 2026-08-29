@@ -1,0 +1,27 @@
+# Page Sharer (site override of the theme default)
+# Only email, LinkedIn, and GitHub are shown on project/publication pages.
+# Documentation: https://docs.hugoblox.com/reference/page-sharer/
+
+[[buttons]]
+  id = "email"
+  url = "mailto:?subject={title}&body={url}"
+  title = "Email"
+  icon_pack = "fas"
+  icon = "envelope"
+  enable = true
+
+[[buttons]]
+  id = "linkedin"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn"
+  icon_pack = "fab"
+  icon = "linkedin-in"
+  enable = true
+
+[[buttons]]
+  id = "github"
+  url = "https://github.com/r4stin"
+  title = "GitHub"
+  icon_pack = "fab"
+  icon = "github"
+  enable = true
