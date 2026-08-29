@@ -24,5 +24,5 @@ content:
 design:
   # Choose a listing view: compact | card | citation
   view: citation
-  columns: '2'
+  columns: '1'
 ---
