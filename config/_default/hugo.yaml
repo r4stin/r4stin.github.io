@@ -45,7 +45,8 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
-disableAliases: true
+# Generate real alias redirect pages (needed on GitHub Pages, which ignores Netlify's _redirects file)
+disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
