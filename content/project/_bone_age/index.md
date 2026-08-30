@@ -5,5 +5,7 @@ tags:
   - CV
   - ML
 date: 2023-06-01
-external_link: https://github.com/r4stin/bone-age-prediction
+url_code: https://github.com/r4stin/bone-age-prediction
 ---
+
+Used MediaPipe and CLAHE for preprocessing. Achieved 10.47 MAE using deep regression (ResNet, Inception-v4).

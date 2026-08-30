@@ -4,5 +4,7 @@ summary: Programmed ROS1-based routines for autonomous movement and pick-place u
 tags:
   - CV
 date: 2024-02-01
-external_link: https://github.com/r4stin/Intelligent-Robotics
+url_code: https://github.com/r4stin/Intelligent-Robotics
 ---
+
+Programmed ROS1-based routines for autonomous movement and pick-place using AprilTag recognition.
