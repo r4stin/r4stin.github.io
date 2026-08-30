@@ -18,24 +18,15 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI Researcher and Engineer passionate about building practical, efficient intelligent systems across vision, multimodal, and real-time applications.
+bio: AI Researcher and Engineer passionate about building practical, efficient intelligent systems across vision, multimodal, and knowledge-driven applications.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - Computer Vision
+  - Knowledge Graphs & Semantic Technologies
+  - LLMs & Agentic Systems
+  - Multimodal Learning
+  - MLOps & Scalable AI Systems
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,7 +57,7 @@ social:
 #email: ""
 ---
 
-AI Researcher & Engineer with an M.Sc. in Computer Engineering from the University of Padova, specializing in machine learning and deep learning across diverse domains. My experience spans computer vision, recommendation systems, real-time AI applications, and emerging agentic systems, with growing expertise in large language models (LLMs), multimodal and graph-based learning.
+AI Researcher & Engineer with an M.Sc. in Computer Engineering from the University of Padova, specializing in machine learning and deep learning across diverse domains. My experience spans computer vision, recommendation systems, real-time AI applications, and emerging agentic systems, with growing expertise in large language models (LLMs), multimodal and graph-based learning, and a focus on knowledge graphs and semantic technologies for making research data findable and reusable.
 
 Proficient in Python, C++, PyTorch, TensorFlow, and OpenCV, I combine strong software engineering practices — including DevOps/MLOps and scalable system design — with a passion for building robust AI systems that push the boundaries of efficiency and precision. My interests lie at the intersection of applied research and practical deployment of intelligent, agent-driven technologies.
 
