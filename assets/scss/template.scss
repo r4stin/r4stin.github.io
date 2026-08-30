@@ -111,6 +111,22 @@ ul.network-icon .big-icon {
   height: 225px;
 }
 
+// Project cards show a 2-line teaser of the summary; the full description
+// lives on each project's own page (which every card links to).
+.wg-portfolio .card .article-style p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+
+// Cards are a single click target (the project page); link buttons such as
+// Code render on the project page instead, not on the card.
+.wg-portfolio .card .btn-links {
+  display: none;
+}
+
 // Prevent stretching on About page with narrow container
 .wg-about .avatar {
   width: auto;

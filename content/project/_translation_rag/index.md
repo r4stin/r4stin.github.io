@@ -1,8 +1,10 @@
 ---
 title: Translation RAG Service
-summary: Built a lightweight Retrieval-Augmented Generation (RAG) backend for translation prompts using FastAPI, SQLite, and TF-IDF cosine similarity retrieval. Features persistent, deduplicated storage of translation pairs, retrieval-augmented prompt construction for LLM-based translation, heuristic stammering detection for translated sentences, and Dockerized deployment.
+summary: A lightweight Retrieval-Augmented Generation (RAG) backend for translation prompts. The service exposes a FastAPI REST API that stores translation pairs in SQLite — kept idempotent through database-level deduplication — retrieves the most relevant examples with TF-IDF cosine similarity, and assembles them into retrieval-augmented prompts for LLM-based translation. An additional heuristic component detects stammering in translated sentences, and the whole system ships Dockerized for easy deployment.
 tags:
   - LLM
 date: 2025-12-20
-external_link: https://github.com/r4stin/translation-rag-service
+url_code: https://github.com/r4stin/translation-rag-service
 ---
+
+A lightweight Retrieval-Augmented Generation (RAG) backend for translation prompts. The service exposes a FastAPI REST API that stores translation pairs in SQLite — kept idempotent through database-level deduplication — retrieves the most relevant examples with TF-IDF cosine similarity, and assembles them into retrieval-augmented prompts for LLM-based translation. An additional heuristic component detects stammering in translated sentences, and the whole system ships Dockerized for easy deployment.
